@@ -8,3 +8,5 @@ name: Zach Holman
 url: https://zachholman.com/left
 description: A fantastic blog that is fantastic.
 twitter: holman
+
+theme: jekyll-theme-time-machine
